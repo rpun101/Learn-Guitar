@@ -19,6 +19,6 @@ The big goal is to be able to play and reconginze notes by the end of another ye
    ![Guitar Fret Notes](https://github.com/rchopoon/Learn-Guitar/blob/master/images/Guitar_Fret_Notes.JPG)
 
 ### Note Circle
-   ![Note Cirlce](~/images/NoteWheel.png)
+   ![Note Cirlce](https://github.com/rchopoon/Learn-Guitar/blob/master/images/NoteWheel.png)
 
 
