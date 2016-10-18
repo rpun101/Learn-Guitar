@@ -24,7 +24,7 @@ The big goal is to be able to play and reconginze notes by the end of another ye
 
 ### How to practice better
 
-These are the series of tips given by Justin from [Practice Better @JustinGuitar].(http://www.justinguitar.com/en/PC-000-Practice.php)
+These are the series of tips given by Justin from [Practice Better @JustinGuitar](http://www.justinguitar.com/en/PC-000-Practice.php)
 > Deliberate Practice
 
 > Non-judgemental Practice. [Inner game of tennis](https://www.amazon.com/Inner-Game-Tennis-Classic-Performance-ebook/dp/B003T0G9E4)
@@ -32,10 +32,11 @@ These are the series of tips given by Justin from [Practice Better @JustinGuitar
    1. Set Long Term Goals
 
       Having a long term goals helps. You will have a direction of where you are going. Then you can practice towards your goal, go one step closer to your goal each day. It is also helpful to set some deadline. Say something like, By the end of year, I am going to learn to play at least one song. Maybe know the notes on the neck of guitar by the end of month. This will help you keep track of what you are learning.
-      Some goals
+      Some goals:
+
          + Play/Jam in a band
          + Entertain in a group
-         + Learn that slick Pink Flyod solo
+         + Learn that slick Pink Floyd solo
    
       The sense of purpose is great, because often times, questions will be asked as to why you are doing boring practice sessions.
 
@@ -56,6 +57,7 @@ These are the series of tips given by Justin from [Practice Better @JustinGuitar
       + Repertoire
          - Songs you know (easy, solo-leads)
       + Improvisation
+         - Jazz or pentatonics
        
       
 
@@ -65,7 +67,7 @@ These are the series of tips given by Justin from [Practice Better @JustinGuitar
          + it is self motivating and you will see the progress
       + Practice less items or don't go for all the items.
       + Always leave when the practice time is over.
-      + one hour * 5 day is good routine to have. or else commit some time for guitar practice.
+      + one hour X 5 day is good routine to have. or else commit some time for guitar practice.
       + Good to have a off day too.
 
    4. Always use metronome
@@ -83,7 +85,7 @@ These are the series of tips given by Justin from [Practice Better @JustinGuitar
 
       > Measure twice and cut once.
 
-   6. Always start SLOW
+   6. Always start **SLOW**
       + No point in trying fast and making mistakes.
       + Try to get full tone slowly
          + transcibe, using _audacity_ slowly playback.
